@@ -42,6 +42,8 @@ public class Solution {
        y=sc.nextInt();
      int news=((x-y)*w)-100;
 System.out.print(news);
+    } 
+}
 
 
 
