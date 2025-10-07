@@ -30,6 +30,20 @@ Sample Output 1
 300
 
 
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+      int w,x,y;
+       w=sc.nextInt();
+       x=sc.nextInt();
+       y=sc.nextInt();
+     int news=((x-y)*w)-100;
+System.out.print(news);
+
+
 
 
 
